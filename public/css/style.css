@@ -1,0 +1,39 @@
+
+body {
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family: 'Arima Madurai', cursive;
+  background-image: url('../image/background.png');
+}
+body ul {
+  font-size: 25px;
+  font-family: 'Poiret One', cursive;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30vh;
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Arima Madurai', cursive;
+}
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 50px;
+  font-family: 'Poiret One', cursive;
+}
+.form-group {
+  width: 50vh;
+}
+a {
+  margin-right: 10px;
+}
+.bold {
+  font-weight: 700;
+}
+.table {
+  width: 50vh;
+}
